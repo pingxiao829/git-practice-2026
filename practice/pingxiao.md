@@ -9,3 +9,4 @@ GitとGitHubの演習を行っています。
 5. mdファイルを新規作成
 6. add → commit → push を実行
 7. Pull Requestを作成してレビューを依頼
+変更
